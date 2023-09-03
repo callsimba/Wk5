@@ -82,6 +82,11 @@
         color: hsl(212, 21%, 14%);
     }
 
+    .green-heading {
+        color: hsl(158, 36%, 37%);
+        font-family: 'Fraunces';
+    }
+
     p{
         font-family: 'Montserrat';
         padding-left: 20px;
@@ -200,6 +205,11 @@
         color: hsl(212, 21%, 14%);
     }
 
+    .green-heading {
+        color: hsl(158, 36%, 37%);
+        font-family: 'Fraunces';
+    }
+
     p{
         font-family: 'Montserrat';
         padding-left: 20px;
@@ -315,6 +325,7 @@
 
     .green-heading {
         color: hsl(158, 36%, 37%);
+        font-family: 'Fraunces';
     }
 
     p{
